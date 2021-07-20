@@ -1,0 +1,35 @@
+{
+  "description": "Not so friendly Robot. Give him pizza.", 
+  "external_url": "https://www.gazzopizza.com/", 
+  "image": "https://i.imgur.com/UFdFXxU.png", 
+  "name": "Da Giovanni-O-Tron",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "It"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Dough"
+    },
+    {
+      "trait_type": "Lubricant",
+      "value": "Olive oil"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 3
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Sauce Power",
+      "value": 60
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Power Increase",
+      "value": 15
+    }
+  ]
+}
